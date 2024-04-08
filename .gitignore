@@ -1,0 +1,12 @@
+
+*.dll
+*/bin
+*/obj
+*.json
+*.config
+*/.vs
+*.user
+*.csproj
+*.http
+*.sln
+*/.vshistory
